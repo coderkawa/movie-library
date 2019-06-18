@@ -11,15 +11,15 @@
 
 #### Create a new movie
 >##### POST /movies
-##### Request
-{
-	"name": "Captain America",
-	"description":"Super Hero",
-	"genres":[1,2],
-	"releaseDate": "2010-01-02",
-	"duration": 124,
-	"rating": 8.7
-}
+>##### Request
+>{
+>	"name": "Captain America",
+>	"description":"Super Hero",
+>	"genres":[1,2],
+>	"releaseDate": "2010-01-02",
+>	"duration": 124,
+>	"rating": 8.7
+>}
 <br/>
 <br/>
 
