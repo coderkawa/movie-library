@@ -10,7 +10,7 @@
 <br/>
 
 #### Create a new movie
-##### POST /movies
+>##### POST /movies
 ##### Request
 {
 	"name": "Captain America",
