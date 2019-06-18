@@ -1,17 +1,17 @@
-# Movie library REST API using Node.js, Express.js, Sequelize and PostgreSQL
+## Movie library REST API using Node.js, Express.js, Sequelize and PostgreSQL
 
 
 ## Returns all movies
-### GET /movies
+#### GET /movies
 
-## Returns a movie by movieId with its genres
-### GET /movies/:movieId
+### Returns a movie by movieId with its genres
+#### GET /movies/:movieId
 
-## Creates a new movie
-### POST /movies
+### Creates a new movie
+#### POST /movies
 
-## Deletes a movie by movieId
-### DELETE /movies/:movieId
+### Deletes a movie by movieId
+#### DELETE /movies/:movieId
 
-## Deletes all movies
-### DELETE /movies
+### Deletes all movies
+#### DELETE /movies
