@@ -1,16 +1,16 @@
 ### Movie library REST API using Node.js, Express.js, Sequelize and PostgreSQL
 
-####Movies API
+#### Movies API
 #### Fetch all movies
->##### GET /movies
+>##### GET  /movies
 <br/>
 
 #### Fetch a movie by movieId with its genres
->##### GET /movies/:movieId
+>##### GET  /movies/:movieId
 <br/>
 
 #### Create a new movie
->##### POST /movies
+>##### POST  /movies
 >##### Request
 >{
 >	"name": "Captain America",
@@ -24,24 +24,24 @@
 <br/>
 
 #### Delete a movie by movieId
->##### DELETE /movies/:movieId
+>##### DELETE  /movies/:movieId
 <br/>
 
 #### Delete all movies
->##### DELETE /movies
+>##### DELETE  /movies
 <br/>
 
-####Genres API
+#### Genres API
 #### Fetch all genres
->##### GET /genres
+>##### GET  /genres
 <br/>
 
 #### Fetch a genre by genreId
->##### GET /genres/:genreId
+>##### GET  /genres/:genreId
 <br/>
 
 #### Create a new genre
->##### POST /genres
+>##### POST  /genres
 >##### Request
 >{
 >	"name": "Action",
@@ -51,8 +51,8 @@
 <br/>
 
 #### Delete a genre by genreId
->##### DELETE /genres/:genreId
+>##### DELETE  /genres/:genreId
 <br/>
 
 #### Delete all genres
->##### DELETE /genres
+>##### DELETE  /genres
