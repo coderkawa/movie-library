@@ -1,6 +1,6 @@
 ### Movie library REST API using Node.js, Express.js, Sequelize and PostgreSQL
 
-*Movies API*
+####Movies API
 #### Fetch all movies
 >##### GET /movies
 <br/>
@@ -31,7 +31,7 @@
 >##### DELETE /movies
 <br/>
 
-*Genres API*
+####Genres API
 #### Fetch all genres
 >##### GET /genres
 <br/>
