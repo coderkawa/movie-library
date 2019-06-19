@@ -1,5 +1,8 @@
 ### Movie library REST API using Node.js, Express.js, Sequelize and PostgreSQL
 
+#### Demo Url
+> https://movie-library-demoapp.herokuapp.com/
+
 #### Movies API
 #### Fetch all movies
 >##### GET  /movies
